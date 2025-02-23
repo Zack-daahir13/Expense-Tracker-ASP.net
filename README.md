@@ -6,7 +6,12 @@ Welcome to Expense Tracker, a powerful and efficient application built with ASP.
 
 🎯 Features
 
-✅ Add Expenses - Easily record your daily expenses.✅ Edit/Delete Expenses - Modify or remove any transaction.✅ Local Data Storage - All transactions are stored locally for offline support.✅ User-Friendly Interface - Built with a clean and intuitive design.✅ Real-time Updates - Transactions update instantly without refreshing.✅ Secure & Fast - Backend powered by Node.js for efficient data handling.
+✅ Add Expenses - Easily record your daily expenses.<br/>
+✅ Edit/Delete Expenses - Modify or remove any transaction. <br/>
+✅ Local Data Storage - All transactions are stored locally for offline support. <br/>
+✅ User-Friendly Interface - Built with a clean and intuitive design.<br/>
+✅ Real-time Updates - Transactions update instantly without refreshing.<br/>
+✅ Secure & Fast - Backend powered by Node.js for efficient data handling.<br/>
 
 🛠️ Technologies Used
 

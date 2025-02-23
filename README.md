@@ -27,10 +27,10 @@ Styling: Bootstrap & CSS 💅
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Zack-daahir13/Expense-Tracker-ASP.net.git
+git clone https://github.com/Zack-daahir13/Expense-Tracker-ASP.net.git <br/>
 cd expense-tracker
 
-2️⃣ Install Backend Dependencies
+2️⃣ Install Backend Dependencies 
 
 cd backend
 npm install

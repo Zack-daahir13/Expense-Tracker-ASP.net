@@ -1,0 +1,34 @@
+@page
+@model ExpenseTracker.Pages.ExpensesModel
+
+<h2>Expenses</h2>
+<p>Here is a list of your recent expenses:</p>
+
+<div class="expenses-container">
+    @if (Model.Expenses != null && Model.Expenses.Count > 0)
+    {
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Amount</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var expense in Model.Expenses)
+                {
+                    <tr>
+                        <td>@expense.Name</td>
+                        <td>$@expense.Amount.ToString("F2")</td>
+                        <td>@expense.Date</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p class="no-expenses">No expenses recorded yet.</p>
+    }
+</div>

@@ -15,7 +15,7 @@ Welcome to Expense Tracker, a powerful and efficient application built with ASP.
 
 🛠️ Technologies Used
 
-Frontend: ASP.NET (C#), JAVASCRIPT 🎨
+Frontend: ASP.NET (C#), HTML, JAVASCRIPT 🎨
 
 Backend: Node.js (Express.js) ⚡
 
